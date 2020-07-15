@@ -1,7 +1,7 @@
 # Samples CI Testing Status
 Testing with latest public available release of oneAPI Toolkits
 
-{Dummy data right now}
+{Test data right now}
  ### Nbody 
  * default <img src="https://img.shields.io/badge/TEST-SUCCESS-brightgreen">
  ### Particle_Diffusion 
